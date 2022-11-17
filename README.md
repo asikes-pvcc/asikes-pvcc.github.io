@@ -20,7 +20,7 @@
     <li><a href = "bagels.html"> Bagels </a></li>
     <li><a href = "Sikes opsys.html"> OpSys Definitions</li>
     <li>more here...</li>
-    <li>more here...</lI>
+    
 </ul>
 </h3>
 </body>
