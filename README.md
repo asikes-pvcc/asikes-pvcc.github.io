@@ -21,6 +21,7 @@
     <li><a href = "Sikes opsys.html"> OpSys Definitions</li>
     <li><a href = "planets.html"> Planets</a></li>
     <li><a href = "arithmetic.html"> Arithmetic</a></li>
+    <li>Coming soon...</li>
     
 </ul>
 </h3>
