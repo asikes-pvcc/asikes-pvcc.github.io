@@ -19,7 +19,8 @@
     <li><a href = "helloworld.html"> Hello World </a></li>
     <li><a href = "bagels.html"> Bagels </a></li>
     <li><a href = "Sikes opsys.html"> OpSys Definitions</li>
-    <li>Planets</li>
+    <li><a href = "planets.html"> Planets</a></li>
+    <li><a href = "arithmetic.html"> Arithmetic</a></li>
     
 </ul>
 </h3>
