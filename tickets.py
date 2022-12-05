@@ -43,8 +43,6 @@ def display_results():
 	print ('------------------------------')
 	print (str(datetime.datetime.now()))
 	
-input()
-
 ##############	call on main program to execute	##############
 main()
 
