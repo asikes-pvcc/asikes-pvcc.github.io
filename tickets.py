@@ -1,4 +1,3 @@
-input()
 # Amy Little
 # Program Purpose: This program finds the cost of movie tickets
 #	Price for one ticket: $10.99
@@ -46,6 +45,7 @@ def display_results():
 
 ##############	call on main program to execute	##############
 main()
+add raw_input('Press Enter to exit')
 
 
 
