@@ -21,6 +21,7 @@ def main():
 	get_user_data()
 	perform_calculations()
 	display_results()
+	input()
 
 def get_user_data():
 	global num_tickets
