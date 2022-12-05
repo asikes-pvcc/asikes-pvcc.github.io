@@ -1,3 +1,4 @@
+input()
 # Amy Little
 # Program Purpose: This program finds the cost of movie tickets
 #	Price for one ticket: $10.99
