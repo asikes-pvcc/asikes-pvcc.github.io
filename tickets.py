@@ -42,10 +42,11 @@ def display_results():
 	print ('Total	$  '  +  format(total, '8.2f'))
 	print ('------------------------------')
 	print (str(datetime.datetime.now()))
+	
+'wait = input("Enter to continue...")'
 
 ##############	call on main program to execute	##############
 main()
-'wait = input("Enter to continue...")'
 
 
 
