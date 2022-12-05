@@ -43,7 +43,7 @@ def display_results():
 	print ('------------------------------')
 	print (str(datetime.datetime.now()))
 	
-'wait = input("Enter to continue...")'
+input()
 
 ##############	call on main program to execute	##############
 main()
